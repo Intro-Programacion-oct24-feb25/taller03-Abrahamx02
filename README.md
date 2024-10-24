@@ -1,4 +1,5 @@
 # Taller3
+# Jhordy Camacas-Abraham ayala
 * Taller 3 (Laboratorio): Manejo de tipos de datos, operadores y expresiones en lenguajes de alto nivel
 
 ### Ejercicio01
