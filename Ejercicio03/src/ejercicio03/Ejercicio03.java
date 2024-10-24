@@ -22,7 +22,8 @@ public class Ejercicio03 {
         int valor5 = 1;
         int valor6 = 11;
         System.out.println((Math.pow(valor1 , valor2)+(Math.sqrt(valor3)+(valor4/(valor5 + valor6)))));
-       
+       // utilizamos "variables de tipo entero"
+       // utilizamos "elementos de la biblioteca como (Math.sqrt)"
         // TODO code application logic here
         
     }
